@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I am in my first year at Durham University and I've just started using git and GitHub. Hopefully I continue to use this site well!
 <!--
 **ShonkyCoder/ShonkyCoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
